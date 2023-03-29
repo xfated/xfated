@@ -2,7 +2,7 @@
 
 Constantly exploring new technologies to help me build better products at scale. My main sources of information on new technologies are newsletters and TikTok.
 
-### Life 🌴 
+<!-- ### Life 🌴 
 ----  
 🏢 | ☃️
 --- | --- 
@@ -12,7 +12,7 @@ Constantly exploring new technologies to help me build better products at scale.
 [**Shopee**](https://www.linkedin.com/company/shopee/) | Data Science Intern
 [**NDR Medical**](https://www.linkedin.com/company/ndr-medical/) | Machine Learning Engineer Intern
 [**GovTech Singapore**](https://www.linkedin.com/company/govtech-singapore/) | System Software Engineer Intern
-[**National University of Singapore**](https://www.linkedin.com/school/national-university-of-singapore/) | Student
+[**National University of Singapore**](https://www.linkedin.com/school/national-university-of-singapore/) | Student -->
 
 <!--
 **xfated/xfated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
