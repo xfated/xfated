@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 #### What's next? 
 - 🙌🏼 Connect with me on [LinkedIn](https://www.linkedin.com/in/kai-yang-tay/), where I'd update on any professional endeavours (if any)
 - 🌐 Visit my [porfolio website](https://xfated.github.io/portfolio-site/) for a more detailed background and my resume.
+- 🗞 Read some of my articles on [medium](https://medium.com/@xfated)  
 
 ---
 <!-- <p align = "center">
