@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 🙌🏼 Connect with me on [LinkedIn](https://www.linkedin.com/in/kai-yang-tay/), where I'd update on any professional endeavours (if any)
 - 🌐 Visit my [porfolio website](https://xfated.github.io/portfolio-site/) for a more detailed background and my resume.
 - 🗞 Read some of my articles on [medium](https://medium.com/@xfated)  
+- 🍔 Check out the mobile app I recently launched to find places near you (with friends)! [Apple App Store](https://apps.apple.com/us/app/crumble/id6447760921), [Google Play Store](https://play.google.com/store/apps/details?id=com.xfated.crumbleapp&pli=1)
 
 ---
 <!-- <p align = "center">
