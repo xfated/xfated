@@ -70,8 +70,9 @@ Others:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
 Cloud:  
 ![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?logo=amazonaws&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285f4?logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285f4?logo=googlecloud&logoColor=white)  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)   
 Machine Learning Frameworks:  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-C2AD6F?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
