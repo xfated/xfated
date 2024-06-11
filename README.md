@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 #### What's next? 
 - 🙌🏼 Connect with me on [LinkedIn](https://www.linkedin.com/in/kai-yang-tay/), where I'd update on any professional endeavours (if any)
-- 🌐 Visit my [porfolio website](https://xfated.github.io/portfolio-site/) for a more detailed background and my resume.
+<!-- - 🌐 Visit my [porfolio website](https://xfated.github.io/portfolio-site/) for a more detailed background and my resume. -->
 - 🗞 Read some of my articles on [medium](https://medium.com/@xfated)  
-- 🍔 Check out the mobile app I recently launched to find places near you (with friends)! [Apple App Store](https://apps.apple.com/us/app/crumble/id6447760921), [Google Play Store](https://play.google.com/store/apps/details?id=com.xfated.crumbleapp&pli=1)
+<!-- - 🍔 Check out the mobile app I recently launched to find places near you (with friends)! [Apple App Store](https://apps.apple.com/us/app/crumble/id6447760921), [Google Play Store](https://play.google.com/store/apps/details?id=com.xfated.crumbleapp&pli=1) -->
 
 ---
 <!-- <p align = "center">
@@ -54,16 +54,17 @@ Here are some ideas to get you started:
 <!-- https://simpleicons.org/ -->
 Languages:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-E0115F?logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-F29111?logo=MySQL&logoColor=white)  
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064A5?logo=PostgreSQL&logoColor=white)   
 Frameworks:  
+![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white)  
 Others:  
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
